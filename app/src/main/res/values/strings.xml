@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kamus Dicoding</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading!</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="toolbar_title_en_in">English - Indonesia</string>
+    <string name="toolbar_title_in_en">Indonesia - English</string>
+    <string name="label_search">Search</string>
+    <string name="title_activity_find">FindActivity</string>
+    <string name="translate">Keterangan</string>
+</resources>
